@@ -68,4 +68,3 @@ This project is licensed under the MIT License.
 
 ---
 
-This README provides an overview of your Dear Diary app, its features, the technology stack used, setup instructions, and usage guidelines. You may want to add more specific details about your project structure, deployment process, or any other relevant information based on your specific implementation and requirements.
