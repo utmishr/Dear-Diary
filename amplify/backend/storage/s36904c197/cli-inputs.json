@@ -1,0 +1,14 @@
+{
+  "resourceName": "s36904c197",
+  "policyUUID": "6904c197",
+  "bucketName": "notepadgo120f777f725d4d239decc35f784cae2c",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}

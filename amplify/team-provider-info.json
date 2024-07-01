@@ -1,0 +1,35 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-notepadgo-dev-fd35c-authRole",
+      "UnauthRoleArn": "arn:aws:iam::767398026692:role/amplify-notepadgo-dev-fd35c-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::767398026692:role/amplify-notepadgo-dev-fd35c-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-notepadgo-dev-fd35c-deployment",
+      "UnauthRoleName": "amplify-notepadgo-dev-fd35c-unauthRole",
+      "StackName": "amplify-notepadgo-dev-fd35c",
+      "StackId": "arn:aws:cloudformation:ap-south-1:767398026692:stack/amplify-notepadgo-dev-fd35c/cc99dd40-3703-11ef-be0f-02526140c695",
+      "AmplifyAppId": "d1j42egi4x1ez7"
+    },
+    "categories": {
+      "auth": {
+        "notepadgo77b45b2c": {}
+      },
+      "api": {
+        "notepadgo": {}
+      },
+      "hosting": {
+        "S3AndCloudFront": {}
+      },
+      "storage": {
+        "s36904c197": {}
+      },
+      "function": {
+        "shareNoteViaEmail": {
+          "deploymentBucketName": "amplify-notepadgo-dev-fd35c-deployment",
+          "s3Key": "amplify-builds/shareNoteViaEmail-31686a432b6c6b354339-build.zip"
+        }
+      }
+    }
+  }
+}
